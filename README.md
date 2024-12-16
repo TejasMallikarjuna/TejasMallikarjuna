@@ -59,7 +59,7 @@ Here are a few projects that showcase my journey in data analytics:
 ---
 
 ## 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=LinkedIn)](https//:www.linkedin.com/in/tejasmallikarjuna)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TejasMallikarjuna-blue?style=flat&logo=LinkedIn)](www.linkedin.com/in/tejasmallikarjuna)  
 [![Email](https://img.shields.io/badge/Email-Send-orange?style=flat&logo=Gmail)](mailto:tejasmallikarjuna1@gmail.com)  
 
 ---
